@@ -1,0 +1,23 @@
+header nav {
+    display: flex;
+    justify-content: flex-end;
+    height: inherit;
+}
+header nav ul{
+    list-style-type: none;
+}
+
+header nav .nav-contact{
+    width: 40%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav .nav-contact a {
+    margin-right: 20px;
+}
+a{
+    text-decoration: none;
+}
